@@ -11,7 +11,7 @@
 			 	</ol>
 				<div class="carousel-inner">
 				    <div class="carousel-item active">
-				    	<img class="d-block w-100" src="img/sanh-t54.jpg"">
+				    	<img class="d-block w-100" src="img/sanh-t54.jpg">
 				    </div>
 				    <div class="carousel-item">
 				      	<img class="d-block w-100" src="img/rivf-gala.jpg">
@@ -42,10 +42,65 @@
 			  	</a>
 			</div>
 		</div>
+<div class="container">
+	<div class="row">
+		<div class="col-sm-12 col-md-12 col-12">
+			<h2 style="text-align: left;float: left;margin-top:20px;margin-bottom:43px;color:#D22525;text-transform: uppercase">Event</h2> 
+			<span style="float: left;margin-top:20px;margin-left: 40px;font-size: 24px;font-family: Arial, Helvetica, sans-serif"><a href="#" style="color: red">See more event</a></span>
+		</div>
+	</div>
+	<div class="row item1">
+		<div class="col-md-6 col-sm-6 col-12 item2">
+			<div class="text-center" style="float:left;border: 3px solid red;width: 100px;height: 80px;">
+				<span style="font-size: 30px;color: red">10</span>  <br/> 9-2019
+			</div>
+			<div class="item3" style="padding-left: 100px;margin-top: 0" >
+				<span style="font-size: 12px"> <i class="far fa-clock" style="font-size:20px;color:blue;"></i>  8:00 am to 9:00 pm</span> 
+				<span style="font-size: 12px"><i class="fas fa-home" style="font-size:20px;color:blue"></i>  T45,Thủy Lợi</span>
+				<h5><a href="#" style="text-align: center;padding-top: 20px" >Lịch thi học kì chính 2019 sẽ được diễn ra từ ngày 21/09/2019 - 06/10/2019</a></h5>
+		</div>
+		</div>
+		<div class="col-md-6 col-sm-6 col-12">
+			<div class="text-center" style="float:left;border: 3px solid red;width: 100px;height: 80px;">
+				<span style="font-size: 30px;color: red">12</span>  <br/> 9-2019
+			</div>
+			<div class="item3" style="padding-left: 135px;margin-top: 0" >
+				<span style="font-size: 12px"> <i class="far fa-clock" style="font-size:20px;color:blue;"></i>  8:00 am to 9:00 pm</span> 
+				<span style="font-size: 12px"><i class="fas fa-home" style="font-size:20px;color:blue"></i>  Nhà T35, Thủy Lợi</span>
+				<h5><a href="#" style="text-align: center;padding-top: 20px" >Khai giảng năm học sẽ được diễn ra từ ngày 21/09/2019 - 06/10/2019</a></h5>
+		</div>
+		</div>
+	</div>
+	<div class="row item1">
+		<div class="col-md-6 col-sm-6 col-12 item2">
+			<div class="text-center" style="float:left;border: 3px solid red;width: 100px;height: 80px;">
+				<span style="font-size: 30px;color: red">10</span>  <br/> 9-2019
+			</div>
+			<div class="item3" style="padding-left: 100px;margin-top: 0" >
+				<span style="font-size: 12px"> <i class="far fa-clock" style="font-size:20px;color:blue;"></i>  8:00 am to 9:00 pm</span> 
+				<span style="font-size: 12px"><i class="fas fa-home" style="font-size:20px;color:blue"></i>  T45,Thủy Lợi</span>
+				<h5><a href="#" style="text-align: center;padding-top: 20px" >Lịch thi học kì chính 2019 sẽ được diễn ra từ ngày 21/09/2019 - 06/10/2019</a></h5>
+		</div>
+		</div>
+		<div class="col-md-6 col-sm-6 col-12">
+			<div class="text-center" style="float:left;border: 3px solid red;width: 100px;height: 80px;">
+				<span style="font-size: 30px;color: red">12</span>  <br/> 9-2019
+			</div>
+			<div class="item3" style="padding-left: 135px;margin-top: 0" >
+				<span style="font-size: 12px"> <i class="far fa-clock" style="font-size:20px;color:blue;"></i>  8:00 am to 9:00 pm</span> 
+				<span style="font-size: 12px"><i class="fas fa-home" style="font-size:20px;color:blue"></i>  Nhà T35, Thủy Lợi</span>
+				<h5><a href="#" style="text-align: center;padding-top: 20px" >Khai giảng năm học sẽ được diễn ra từ ngày 21/09/2019 - 06/10/2019</a></h5>
+		</div>
+		</div>
+	</div>
+
+	
+</div>
+<!--     -->
 		<section class="main">
 			<div class="container">
 				<div class="row">
-					<div id="dnn_ContentPane" class="col-md-12">
+					<div id="dnn_ContentPane" class="col-md-12 col-sm-12 col-12">
 						<div class="row row-white">
 							<div class="col-md-9 spacing top">
 								<div class="portlet-column span9">
